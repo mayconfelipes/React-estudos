@@ -1,0 +1,14 @@
+# dependencies
+/react-basico/node_modules
+/react-formulario/node_modules
+/react-http/node_modules
+/react-medio/node_modules
+/react-redux/node_modules
+/react-routes/node_modules
+
+/react-basico/.vscode
+/react-formulario/.vscode
+/react-http/.vscode
+/react-medio/.vscode
+/react-redux/.vscode
+/react-routes/.vscode
